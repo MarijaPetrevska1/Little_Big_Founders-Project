@@ -1,4 +1,4 @@
-# [SP2025-CP01-LBF-1] Repository for Client Project 01 - LBF 2
+# Repository for Client Project 01 - LBF 2
 
 Student Projects 2025
 
